@@ -2,5 +2,7 @@
 
 eae sou ramses , sou estudante de programação!
 
-- 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Faculdade
-- 🌱 Atualmente estudo aprendendo Back - end e JS
+💀 Estou estudando Análise e Desenvolvimento de Sistemas na Faculdade
+💀 Atualmente estudo aprendendo Back - end e JS
+💀 Sou um cara de boa e muito curioso!
+💀 Procurando evoluir cade vez mais como dev
