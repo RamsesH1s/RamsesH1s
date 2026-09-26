@@ -1,6 +1,6 @@
 # Olá, eu sou o Ramses! 👋
 
-### 👨‍💻 Desenvolvedor Full Stack | Next.js • TypeScript • PHP
+### 👨‍💻 Desenvolvedor | Next.js • TypeScript • PHP
 
 Sou um desenvolvedor apaixonado por tecnologia e por construir soluções web completas. Como estudante de Análise e Desenvolvimento de Sistemas, minha abordagem une a criação de interfaces intuitivas e focadas na experiência do usuário (UX) com o desenvolvimento de back-ends sólidos, seguros e escaláveis.
 
@@ -9,12 +9,10 @@ Sou um desenvolvedor apaixonado por tecnologia e por construir soluções web co
 ### 🚀 Sobre mim
 
 - 🎓 Finalizando curso: **Análise e Desenvolvimento de Sistemas**.
-- 💡 Atuo no desenvolvimento de soluções de ponta a ponta, unindo visão de produto e qualidade de código (QA).
 - 🛠️ Atualmente focado em construir aplicações modernas utilizando **Next.js**, **TypeScript** e **PHP**.
 - 🎯 Experiência prática na criação de Landing Pages otimizadas para alta conversão e performance.
 - 🔍 Curioso por natureza: busco constantemente evoluir minhas práticas de arquitetura de software e segurança da informação.
-- 🛡️ **Experiência básica em Segurança Cibernética (em evolução):** Estudando práticas de proteção de dados, OWASP e defesa de aplicações web.
-- 🎯 Especialista na criação de Landing Pages otimizadas para alta conversão e performance.
+- 🎯 Criação de Landing Pages otimizadas para alta conversão e performance.
 ---
 
 ### 💻 Stack Tecnológico
@@ -26,7 +24,7 @@ Sou um desenvolvedor apaixonado por tecnologia e por construir soluções web co
 - PHP | Node.js | SQL | Modelagem de Dados
 
 **Ferramentas & Boas Práticas:**
-- Git & GitHub | Testes e QA | Metodologias Ágeis 
+- Git & GitHub | Metodologias Ágeis 
 
 ---
 
